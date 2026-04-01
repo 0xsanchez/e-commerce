@@ -1,0 +1,10 @@
+asgiref==3.11.1
+Django==6.0.3
+django-ckeditor-5==0.2.20
+django-environ==0.13.0
+django-js-asset==3.1.2
+django-mptt==0.18.0
+djangorestframework==3.17.1
+pillow==12.1.1
+psycopg2==2.9.11
+sqlparse==0.5.5
